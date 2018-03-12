@@ -1,0 +1,84 @@
+@font-face {
+    font-family: Mukadimah;
+    src: url(../font/Mukadimah.ttf);}
+
+
+
+.fix{    
+        width:100%;height:10%;
+         position: fixed;
+         margin-bottom:40px;
+         margin-left:-12px;
+         top:0;
+         z-index: 1;
+         background-color:blue;
+         background-repeat: no-repeat;position:fixed;
+         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+}
+
+.content{
+         margin-top:57px;}
+
+.Shaddam{font-size: 85px; 
+	        font-family: Arial; 
+	       color: white;
+}
+.ena{font-size:50px; 
+	     padding-right:630px;
+	     font-family: Arial; 
+	     color:white;}
+
+.ea{text-align: left; 
+	margin-left: 200px; 
+	font-size: 22px;font-family: Arial;
+	color:white;}
+
+.berkelas{margin-left: -10px;
+	margin-right: -10px;}
+
+#SideNav a {
+    position: absolute;
+    left: -80px; 
+    transition: 0.3s;
+    padding: 15px;
+    width: 200px;
+    text-decoration: none; 
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;}
+
+#SideNav a:hover {
+    left: 0;}
+
+#profile1 {
+    margin-top: 20px;
+    background-color:blue;
+}
+
+#photo1 {
+    margin-top: 260px;
+    background-color:blue;
+}
+
+#aboutme1 {
+    margin-top: 320px;
+    background-color:blue;
+}
+
+#kontak {
+    margin-top: 380px;
+    background-color:blue;
+}
+.first {
+    width: 100%;
+    height: 1000px;
+    background: #ccc;
+}
+
+.second {
+    width: 100%;
+    height: 1000px;
+}
+
+
+
